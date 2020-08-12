@@ -1,0 +1,147 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.loadinglogo {
+  width: 6rem;
+  height: 6rem;
+}
+.loadinglogo .body1 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 1s infinite;
+  -moz-animation: fadeInOut 2.4s linear 1s infinite;
+  -ms-animation: fadeInOut 2.4s linear 1s infinite;
+  animation: fadeInOut 2.4s linear 1s infinite;
+}
+.loadinglogo .body2 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 1.2s infinite;
+  -moz-animation: fadeInOut 2.4s linear 1.2s infinite;
+  -ms-animation: fadeInOut 2.4s linear 1.2s infinite;
+  animation: fadeInOut 2.4s linear 1.2s infinite;
+}
+.loadinglogo .body3 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 1.4s infinite;
+  -moz-animation: fadeInOut 2.4s linear 1.4s infinite;
+  -ms-animation: fadeInOut 2.4s linear 1.4s infinite;
+  animation: fadeInOut 2.4s linear 1.4s infinite;
+}
+.loadinglogo .body4 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 1.6s infinite;
+  -moz-animation: fadeInOut 2.4s linear 1.6s infinite;
+  -ms-animation: fadeInOut 2.4s linear 1.6s infinite;
+  animation: fadeInOut 2.4s linear 1.6s infinite;
+}
+.loadinglogo .body5 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 1.8s infinite;
+  -moz-animation: fadeInOut 2.4s linear 1.8s infinite;
+  -ms-animation: fadeInOut 2.4s linear 1.8s infinite;
+  animation: fadeInOut 2.4s linear 1.8s infinite;
+}
+.loadinglogo .body6 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 2s infinite;
+  -moz-animation: fadeInOut 2.4s linear 2s infinite;
+  -ms-animation: fadeInOut 2.4s linear 2s infinite;
+  animation: fadeInOut 2.4s linear 2s infinite;
+}
+.loadinglogo .body7 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 2.2s infinite;
+  -moz-animation: fadeInOut 2.4s linear 2.2s infinite;
+  -ms-animation: fadeInOut 2.4s linear 2.2s infinite;
+  animation: fadeInOut 2.4s linear 2.2s infinite;
+}
+.loadinglogo .body8 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 2.4s infinite;
+  -moz-animation: fadeInOut 2.4s linear 2.4s infinite;
+  -ms-animation: fadeInOut 2.4s linear 2.4s infinite;
+  animation: fadeInOut 2.4s linear 2.4s infinite;
+}
+.loadinglogo .body9 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 2.6s infinite;
+  -moz-animation: fadeInOut 2.4s linear 2.6s infinite;
+  -ms-animation: fadeInOut 2.4s linear 2.6s infinite;
+  animation: fadeInOut 2.4s linear 2.6s infinite;
+}
+.loadinglogo .body10 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 2.8s infinite;
+  -moz-animation: fadeInOut 2.4s linear 2.8s infinite;
+  -ms-animation: fadeInOut 2.4s linear 2.8s infinite;
+  animation: fadeInOut 2.4s linear 2.8s infinite;
+}
+.loadinglogo .body11 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 3s infinite;
+  -moz-animation: fadeInOut 2.4s linear 3s infinite;
+  -ms-animation: fadeInOut 2.4s linear 3s infinite;
+  animation: fadeInOut 2.4s linear 3s infinite;
+}
+.loadinglogo .body12 {
+  opacity: 0;
+  -webkit-animation: fadeInOut 2.4s linear 3.2s infinite;
+  -moz-animation: fadeInOut 2.4s linear 3.2s infinite;
+  -ms-animation: fadeInOut 2.4s linear 3.2s infinite;
+  animation: fadeInOut 2.4s linear 3.2s infinite;
+}
+
+@-webkit-keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  1%,
+  40% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+@-moz-keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  1%,
+  40% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+@-ms-keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  1%,
+  40% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  1%,
+  40% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
